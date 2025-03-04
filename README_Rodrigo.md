@@ -23,8 +23,6 @@ Durante el proyecto, utilicé los siguientes comandos de Git:
 - `git checkout -b rodrigo` creé una rama para guardar mis cambios.
 - modifiqué alguno de los ficheros e hice un nuevo commit.
 - `git push origin Rodrigo`: Subí mis cambios locales al repositorio remoto.
-- `git branch`: Visualicé las ramas existentes en el repositorio.
-- `git checkout <rama>`: Cambié a una rama específica.
 - `git merge`: Fusioné una rama con la rama principal.
 - `git pull origin master`: Actualicé mi copia local del repositorio con los últimos cambios del repositorio remoto.
 
