@@ -2,6 +2,15 @@ h1 {
     border: solid 1px grey;
     border-radius: 10px;
     text-align: center;
+
+}
+
+
+h3 {
+    background-color: rgb(50, 105, 255);
+    color: white;
+    padding: 4px;
+
     
     
 }
@@ -22,7 +31,4 @@ ul {
 li {
     margin: 0 10px; 
 }
-h3{
-    
-    background-color: aquamarine;
-}
+
