@@ -2,4 +2,27 @@ h1 {
     border: solid 1px grey;
     border-radius: 10px;
     text-align: center;
+    
+    
+}
+h2{
+    
+    text-align: center;
+}
+h2:first-of-type{
+    background-color: rgb(255, 96, 96);
+}
+ul {
+    list-style: none; 
+    display: flex; 
+    justify-content: center; 
+    padding: 0; 
+}
+
+li {
+    margin: 0 10px; 
+}
+h3{
+    
+    background-color: aquamarine;
 }
