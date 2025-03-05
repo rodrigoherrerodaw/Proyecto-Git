@@ -3,3 +3,7 @@ h1 {
     border-radius: 10px;
     text-align: center;
 }
+ol{
+    list-style: none;
+    font-family:sans-serif;
+}
