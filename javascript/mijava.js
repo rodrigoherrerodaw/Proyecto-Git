@@ -1,5 +1,5 @@
 window.addEventListener("load", (event) => {
-    alert("Hola mundo");
+    /*alert("Hola mundo");*/
     console.log("Hola mundo");
   });
 
