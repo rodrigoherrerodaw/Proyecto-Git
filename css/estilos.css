@@ -2,25 +2,27 @@ h1 {
     border: solid 1px grey;
     border-radius: 10px;
     text-align: center;
-
 }
 
+ol{
+    list-style: none;
+    font-family:sans-serif;
+}
 
 h3 {
     background-color: rgb(50, 105, 255);
     color: white;
-    padding: 4px;
-
-    
-    
+    padding: 4px;      
 }
-h2{
-    
+
+h2{  
     text-align: center;
 }
+
 h2:first-of-type{
     background-color: rgb(255, 96, 96);
 }
+
 ul {
     list-style: none; 
     display: flex; 
@@ -31,4 +33,5 @@ ul {
 li {
     margin: 0 10px; 
 }
+
 
